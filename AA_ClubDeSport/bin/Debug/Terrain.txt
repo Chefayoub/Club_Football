@@ -1,0 +1,24 @@
+Nom terrain : Bernabeu
+Match
+Nom equipe domicile :  Fc Milmort U14
+Nom equipe deplacement :  Fc Ougree U14
+ 
+Match
+Nom equipe domicile :  Fc Bressoux P1
+Nom equipe deplacement :  Fc Ougrée senior
+ 
+Entrainement 
+Nom equipe :  Fc Ougrée senior
+ 
+Nom terrain : Camp nou
+Match
+Nom equipe domicile :  Fc Herstal P1
+Nom equipe deplacement :  Fc Bressoux P1
+ 
+Entrainement 
+Nom equipe :  Fc Herstal P1
+ 
+Nom terrain : ethihad stadium
+Entrainement 
+Nom equipe :  Fc Milmort U14
+ 
