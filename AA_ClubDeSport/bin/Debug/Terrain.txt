@@ -7,6 +7,10 @@ Match
 Nom equipe domicile :  Fc Bressoux P1
 Nom equipe deplacement :  Fc Ougrée senior
  
+Match
+Nom equipe domicile :  Fc Milmort U14
+Nom equipe deplacement :  Fc Herstal P1
+ 
 Entrainement 
 Nom equipe :  Fc Ougrée senior
  
@@ -17,6 +21,9 @@ Nom equipe deplacement :  Fc Bressoux P1
  
 Entrainement 
 Nom equipe :  Fc Herstal P1
+ 
+Entrainement 
+Nom equipe :  Fc Ougrée senior
  
 Nom terrain : ethihad stadium
 Entrainement 

@@ -67,3 +67,23 @@ D:\Documents\BLOC_2\Q2\C#_Evenementielle\Application\AA_ClubDeSport - Modifier -
 D:\Documents\BLOC_2\Q2\C#_Evenementielle\Application\AA_ClubDeSport - Modifier - Copie\AA_ClubDeSport\obj\Debug\AA_ClubDeSport.csproj.CopyComplete
 D:\Documents\BLOC_2\Q2\C#_Evenementielle\Application\AA_ClubDeSport - Modifier - Copie\AA_ClubDeSport\obj\Debug\AA_ClubDeSport.exe
 D:\Documents\BLOC_2\Q2\C#_Evenementielle\Application\AA_ClubDeSport - Modifier - Copie\AA_ClubDeSport\obj\Debug\AA_ClubDeSport.pdb
+C:\Users\ayoub\Desktop\Club_Football\Club_Football\AA_ClubDeSport\bin\Debug\AA_ClubDeSport.exe.config
+C:\Users\ayoub\Desktop\Club_Football\Club_Football\AA_ClubDeSport\bin\Debug\AA_ClubDeSport.exe
+C:\Users\ayoub\Desktop\Club_Football\Club_Football\AA_ClubDeSport\bin\Debug\AA_ClubDeSport.pdb
+C:\Users\ayoub\Desktop\Club_Football\Club_Football\AA_ClubDeSport\bin\Debug\Projet_BD_ClubDeSport.Acces.pdb
+C:\Users\ayoub\Desktop\Club_Football\Club_Football\AA_ClubDeSport\bin\Debug\Projet_BD_ClubDeSport.Classes.pdb
+C:\Users\ayoub\Desktop\Club_Football\Club_Football\AA_ClubDeSport\bin\Debug\Projet_BD_ClubDeSport.Gestion.pdb
+C:\Users\ayoub\Desktop\Club_Football\Club_Football\AA_ClubDeSport\obj\Debug\AA_ClubDeSport.csproj.AssemblyReference.cache
+C:\Users\ayoub\Desktop\Club_Football\Club_Football\AA_ClubDeSport\obj\Debug\AA_ClubDeSport.EcranAccueil.resources
+C:\Users\ayoub\Desktop\Club_Football\Club_Football\AA_ClubDeSport\obj\Debug\AA_ClubDeSport.EcranClub.resources
+C:\Users\ayoub\Desktop\Club_Football\Club_Football\AA_ClubDeSport\obj\Debug\AA_ClubDeSport.EcranEntrainement.resources
+C:\Users\ayoub\Desktop\Club_Football\Club_Football\AA_ClubDeSport\obj\Debug\AA_ClubDeSport.EcranEquipe.resources
+C:\Users\ayoub\Desktop\Club_Football\Club_Football\AA_ClubDeSport\obj\Debug\AA_ClubDeSport.EcranHtml.resources
+C:\Users\ayoub\Desktop\Club_Football\Club_Football\AA_ClubDeSport\obj\Debug\AA_ClubDeSport.EcranMatch.resources
+C:\Users\ayoub\Desktop\Club_Football\Club_Football\AA_ClubDeSport\obj\Debug\AA_ClubDeSport.EcranTerrain.resources
+C:\Users\ayoub\Desktop\Club_Football\Club_Football\AA_ClubDeSport\obj\Debug\AA_ClubDeSport.Properties.Resources.resources
+C:\Users\ayoub\Desktop\Club_Football\Club_Football\AA_ClubDeSport\obj\Debug\AA_ClubDeSport.csproj.GenerateResource.cache
+C:\Users\ayoub\Desktop\Club_Football\Club_Football\AA_ClubDeSport\obj\Debug\AA_ClubDeSport.csproj.CoreCompileInputs.cache
+C:\Users\ayoub\Desktop\Club_Football\Club_Football\AA_ClubDeSport\obj\Debug\AA_ClubDeSport.csproj.CopyComplete
+C:\Users\ayoub\Desktop\Club_Football\Club_Football\AA_ClubDeSport\obj\Debug\AA_ClubDeSport.exe
+C:\Users\ayoub\Desktop\Club_Football\Club_Football\AA_ClubDeSport\obj\Debug\AA_ClubDeSport.pdb
